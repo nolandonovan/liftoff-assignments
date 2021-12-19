@@ -3,14 +3,14 @@
 
 ## Features
 ### User authentication
-- User account creation - user can create an account using their Google account
-- User login - user can log into their account using their Google account
-- User authentication - app does not display unless user is logged in, and app is secure—only displaying the given users data
+- **User account creation** - user can create an account using their Google account
+- **User login** - user can log into their account using their Google account
+- **User authentication** - app does not display unless user is logged in, and app is secure—only displaying the given users data
 ### Contacts
-- Contact management - create, edit, and delete contacts
-- Contact list - see list of all contacts, and search through the list
+- **Contact management** - create, edit, and delete contacts
+- **Contact list** - see list of all contacts, and search through the list
 ### Homepage
-- Informational Homepage - Create a homepage that details features of the app for new users interested in signing up
+- **Informational Homepage** - Create a homepage that details features of the app for new users interested in signing up
 
 ## Technologies
 - React (Framework)
